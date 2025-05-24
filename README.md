@@ -4,9 +4,11 @@
 Contextual AutoCorrect is our machine learning model repository based on **T5**, fine-tuned to perform intelligent spelling and grammar correction while preserving context. This repository contains the FastAPI-based backend and a simple frontend interface for live text correction.
 
 ## Frontend Preview
-Here’s a screenshot of the frontend (click the image to watch the demo video):
+Here’s a demo of the model at work:
 
-[![Watch the demo](assets/screenshot.png)](assets/Autocorrect_Demo.mp4)
+
+https://github.com/user-attachments/assets/8300517b-8ead-4195-b9d0-fc9772a0de37
+
 
 ## Contents
 - **Context-aware corrections** for spelling and grammar.
